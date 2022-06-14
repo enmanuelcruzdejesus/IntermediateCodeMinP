@@ -1,0 +1,16 @@
+USOS DE VARIABLES EN EL TEST SBT3
+Uso Variable declarada: num1	Linea: 12	Tipo: Integer	Nivel: 1
+Uso Variable declarada: num2	Linea: 13	Tipo: Integer	Nivel: 1
+Uso Variable declarada: answer	Linea: 14	Tipo: Integer	Nivel: 1
+Uso Variable declarada: num1	Linea: 14	Tipo: Integer	Nivel: 1
+Uso Variable declarada: num2	Linea: 14	Tipo: Integer	Nivel: 1
+Uso Variable declarada: num1	Linea: 14	Tipo: Integer	Nivel: 1
+Uso Variable declarada: num2	Linea: 14	Tipo: Integer	Nivel: 1
+Uso Variable declarada: num1	Linea: 15	Tipo: Integer	Nivel: 1
+Uso Variable declarada: num2	Linea: 15	Tipo: Integer	Nivel: 1
+Uso Variable declarada: num2	Linea: 16	Tipo: Integer	Nivel: 1
+Uso Variable declarada: num2	Linea: 18	Tipo: Integer	Nivel: 1
+Uso Variable declarada: num1	Linea: 18	Tipo: Integer	Nivel: 1
+Uso Variable declarada: answer	Linea: 20	Tipo: Integer	Nivel: 1
+Uso Variable declarada: answer	Linea: 21	Tipo: Integer	Nivel: 1
+Uso Variable declarada: answer	Linea: 21	Tipo: Integer	Nivel: 1

@@ -1,0 +1,119 @@
+ERROR Linea 25 -> Variable no declarada: C
+ERROR Linea 26 -> Variable no declarada: SubSubD
+ERROR Linea 26 -> Variable no declarada: SubD
+ERROR Linea 29 -> Variable no declarada: SubD
+ERROR Linea 103 -> Variable no declarada: Dvar1
+ERROR Linea 110 -> Variable no declarada: C
+ERROR Linea 138 -> Variable no declarada: SubSubD
+ERROR Linea 138 -> Variable no declarada: SubD
+ERROR Linea 153 -> Variable no declarada: SubD
+ERROR Linea 153 -> Variable no declarada: A
+ERROR Linea 153 -> Variable no declarada: B
+ERROR Linea 156 -> Variable no declarada: B
+ERROR Linea 157 -> Variable no declarada: C
+
+TABLA NIVEL 2
+Variables declaradas
+Variable: y: Nivel: 2 Tipo: Real
+Variable: x: Nivel: 2 Tipo: Integer
+
+TABLA NIVEL 5
+Variables declaradas
+Variable: ddvar3: Nivel: 5 Tipo: Real
+Variable: ddvar2: Nivel: 5 Tipo: String
+Variable: ddvar1: Nivel: 5 Tipo: Integer
+Variable: subdpar4: Nivel: 5 Tipo: String
+Variable: subdpar3: Nivel: 5 Tipo: Integer
+
+TABLA NIVEL 4
+Variables declaradas
+Variable: SubSubD: Nivel: 4 Tipo: Procedure
+Variable: dvar3: Nivel: 4 Tipo: Real
+Variable: dvar2: Nivel: 4 Tipo: String
+Variable: dvar1: Nivel: 4 Tipo: Integer
+Variable: subdpar2: Nivel: 4 Tipo: String
+Variable: subdpar1: Nivel: 4 Tipo: Integer
+
+TABLA NIVEL 3
+Variables declaradas
+Variable: b: Nivel: 3 Tipo: String
+Variable: SubD: Nivel: 3 Tipo: Procedure
+Variable: a: Nivel: 3 Tipo: Integer
+Variable: c: Nivel: 3 Tipo: Integer
+
+TABLA NIVEL 2
+Variables declaradas
+Variable: D: Nivel: 2 Tipo: Procedure
+Variable: b: Nivel: 2 Tipo: String
+Variable: x: Nivel: 2 Tipo: String
+
+TABLA NIVEL 3
+Variables declaradas
+Variable: esublocal2: Nivel: 3 Tipo: String
+Variable: esublocal1: Nivel: 3 Tipo: Integer
+
+TABLA NIVEL 2
+Variables declaradas
+Variable: ESub1: Nivel: 2 Tipo: Procedure
+Variable: elocalvar3: Nivel: 2 Tipo: Real
+Variable: elocalvar2: Nivel: 2 Tipo: String
+Variable: elocalvar1: Nivel: 2 Tipo: Integer
+Variable: epar3: Nivel: 2 Tipo: Real
+Variable: epar2: Nivel: 2 Tipo: String
+Variable: epar1: Nivel: 2 Tipo: Integer
+
+TABLA NIVEL 1
+Variables declaradas
+Variable: B: Nivel: 1 Tipo: Procedure
+Variable: d: Nivel: 1 Tipo: Integer
+Variable: C: Nivel: 1 Tipo: Procedure
+Variable: y: Nivel: 1 Tipo: Integer
+Variable: EProc: Nivel: 1 Tipo: Procedure
+Variable: x: Nivel: 1 Tipo: Real
+
+Uso Variable declarada: x       Linea: 24       Tipo: Integer   Nivel: 2
+Uso Variable no declarada: C    Linea: 25
+Uso Variable no declarada: SubSubD      Linea: 26
+Uso Variable no declarada: SubD Linea: 26
+Uso Variable declarada: D       Linea: 26       Tipo: Integer   Nivel: 1
+Uso Variable declarada: D       Linea: 27       Tipo: Integer   Nivel: 1
+Uso Variable no declarada: SubD Linea: 29
+Uso Variable declarada: DDVar1  Linea: 75       Tipo: Integer   Nivel: 5
+Uso Variable declarada: DVar2   Linea: 75       Tipo: String    Nivel: 4
+Uso Variable declarada: DVar3   Linea: 77       Tipo: Real      Nivel: 4
+Uso Variable declarada: DVar1   Linea: 85       Tipo: Integer   Nivel: 4
+Uso Variable declarada: DVar2   Linea: 86       Tipo: String    Nivel: 4
+Uso Variable declarada: DVar1   Linea: 87       Tipo: Integer   Nivel: 4
+Uso Variable declarada: DVar2   Linea: 87       Tipo: String    Nivel: 4
+Uso Variable declarada: DVar3   Linea: 87       Tipo: Real      Nivel: 4
+Uso Variable declarada: Dvar1   Linea: 89       Tipo: Integer   Nivel: 4
+Uso Variable declarada: Dvar2   Linea: 90       Tipo: String    Nivel: 4
+Uso Variable declarada: Dvar3   Linea: 91       Tipo: Real      Nivel: 4
+Uso Variable declarada: y       Linea: 101      Tipo: Integer   Nivel: 1
+Uso Variable declarada: x       Linea: 102      Tipo: String    Nivel: 2
+Uso Variable no declarada: Dvar1        Linea: 103
+Uso Variable declarada: C       Linea: 104      Tipo: Integer   Nivel: 3
+Uso Variable declarada: D       Linea: 109      Tipo: Integer   Nivel: 1
+Uso Variable no declarada: C    Linea: 110
+Uso Variable declarada: x       Linea: 111      Tipo: String    Nivel: 2
+Uso Variable declarada: B       Linea: 112      Tipo: String    Nivel: 2
+Uso Variable no declarada: SubSubD      Linea: 138
+Uso Variable no declarada: SubD Linea: 138
+Uso Variable declarada: ESubLocal1      Linea: 139      Tipo: Integer   Nivel: 3
+Uso Variable declarada: ELocalVar1      Linea: 139      Tipo: Integer   Nivel: 2
+Uso Variable declarada: ELocalVar3      Linea: 139      Tipo: Real      Nivel: 2
+Uso Variable declarada: ESubLocal2      Linea: 140      Tipo: String    Nivel: 3
+Uso Variable declarada: ELocalVar2      Linea: 141      Tipo: String    Nivel: 2
+Uso Variable declarada: ELocalVar1      Linea: 145      Tipo: Integer   Nivel: 2
+Uso Variable declarada: x       Linea: 145      Tipo: Real      Nivel: 1
+Uso Variable declarada: y       Linea: 145      Tipo: Integer   Nivel: 1
+Uso Variable declarada: ELocalVar2      Linea: 146      Tipo: String    Nivel: 2
+Uso Variable declarada: x       Linea: 146      Tipo: Real      Nivel: 1
+Uso Variable declarada: y       Linea: 147      Tipo: Integer   Nivel: 1
+Uso Variable no declarada: SubD Linea: 153
+Uso Variable no declarada: A    Linea: 153
+Uso Variable no declarada: B    Linea: 153
+Uso Variable declarada: D       Linea: 154      Tipo: Integer   Nivel: 1
+Uso Variable declarada: y       Linea: 155      Tipo: Integer   Nivel: 1
+Uso Variable no declarada: B    Linea: 156
+Uso Variable no declarada: C    Linea: 157
